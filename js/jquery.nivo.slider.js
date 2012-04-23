@@ -207,7 +207,7 @@
 						clearInterval(timer);
                 		timer = '';		
 						vars.currentSlide = $(this).attr('rel') - 1;	
-						nivoRun(slider, kids, settings, 'control');
+						nivoRun(slider, kids, settings, false);
 						});
         
         //Keyboard Navigation
