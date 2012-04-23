@@ -13,6 +13,13 @@ Simply insert a link into your document with the following syntax:
 Replace #NUM# with anything you want, all you need is to make sure the slideTo is in the name.
 Replace #SLIDE# with the number of the slide you want to link to. (This is based on the first image in the slideshow being 1).
 
+Demo
+-------
+
+Try our demo site: http://cloudflying.github.com/slideit-nivo/demo.html
+
+
+
 Where is the Change?
 -----------------
 
@@ -37,3 +44,11 @@ textconnects.com
  * http://www.opensource.org/licenses/mit-license.php
  *
  * April 2012
+
+Donate
+----------
+
+If you really like this solution feel free to help us out and donate towards further development:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YQZLCNER3SKJC
+
+Thanks again!
